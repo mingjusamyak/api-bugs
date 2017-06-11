@@ -1,9 +1,13 @@
-# API Bugs
+# api-bugs
 
-This repository serves as an issue tracker for issues that you experience with our Graphcool API.
-We're grateful for everyone who files an issue here.
-Only with your help Graphcool can become a better product.
+:bug: tracker for the APIs
 
-If you have a feature request, please go to our [feature-requests](https://github.com/graphcool/feature-requests) repository.
+## Have more feedback?
 
-If you have a usage question, please ask it in our [Forum](https://www.graph.cool/forum/) instead.
+Thanks for your help! :pray:
+
+* [graphcool/console](https://github.com/graphcool/console/): :bug: tracker for the Graphcool Console
+* [graphcool/ui-feedback](https://github.com/graphcool/ui-feedback): 💅 General feedback to UI and UX for the Graphcool Console
+* [graphcool/feature-requests](https://github.com/graphcool/feature-requests): Collection of known feature requests ⚡️
+
+You can also always reach out to us in [Slack](https://slack.graph.cool) and the [Forum](https://graph.cool/forum) :rocket:
