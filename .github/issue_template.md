@@ -3,8 +3,8 @@ If this is not a "bug", or the phrase "How do I...?" applies, then it's probably
 
 **What is the current behavior?**
 
-**If applicable, share the query, mutation or subscription for reproduction**
+**Please share the relevant part of your GraphQL schema and all functions, permissions or other project settings for easier reproduction**
 
-**If relevant, share the relevant part of your GraphQL schema for reproduction**
+**If applicable, share the query, mutation or subscription for reproduction**
 
 **What is the expected behavior?**
